@@ -2,8 +2,8 @@
     "compilerOptions": {
         "target": "es6",
         "outDir": "app/js",
-        "noEmitOnError": true, // enquanto houver um erro no typescript, ele não gera o js.
-        "noImplicitAny": true
+        "noEmitOnError": true, 
+        "noImplicitAny": true        
     },
     "include": [
         "app/ts/**/*"
